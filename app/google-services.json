@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934679252237",
+    "firebase_url": "https://polar-automata-169511-default-rtdb.firebaseio.com",
+    "project_id": "polar-automata-169511",
+    "storage_bucket": "polar-automata-169511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934679252237:android:b8734d320f1acb6464b444",
+        "android_client_info": {
+          "package_name": "com.videoList.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934679252237-ej277hc9n39dp0dkfn4rh8cqio101jmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzdyp5w9PSti78akdqNSjCEWRw-YjekME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934679252237-ej277hc9n39dp0dkfn4rh8cqio101jmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

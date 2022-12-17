@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/prodBenchmark/classes/
+/buildSrc/.gradle/
+/buildSrc/build/
