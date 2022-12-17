@@ -1,16 +1,14 @@
 # ShowMovieList
 
-This project show the list of Movies using "https://www.aparat.com/api" api.
-thi is an offline first app wich save the data to room database for the first time and can show the list of movies and details by getting from local database
-even there is no internet connection.
+This project show the list of Movies fom each category using "https://www.aparat.com/api/" Apis.
 
 The technologies I used are:
 
 1.MVVM+CLEAN Architecture
 
-2.Kotlin Coroutines +Flow
+2.Kotlin Coroutines + Flow + StateFlow
 
-3.Navigation component
+3.Compose
 
 4.Retrofit+OkHttp
 
@@ -18,4 +16,10 @@ The technologies I used are:
 
 6.Hilt Dependency Injection
 
-7.Fresco
+7.Macro benchmark + Baseline profile
+
+8.Unit test + Instrumental test
+
+9.CI/CD
+
+10.Data Store
